@@ -2,10 +2,17 @@
 
 body {
     background-color: rgb(233, 235, 127);
+    font-size: 16px;
 }
 h1 {
     color: rgb(37, 4, 4);
 }
 h2 {
 color: rgb(53, 24, 24);
+}
+main {
+    background-color: mediumorchid;
+    width: 500px;
+    padding: 10px;
+    box-shadow: 3px 3px 5px;
 }
